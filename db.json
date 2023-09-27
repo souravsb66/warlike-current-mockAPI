@@ -1938,6 +1938,7 @@
     {
       "id": 311,
       "name": "Netflix",
+      "logo": "https://images.ctfassets.net/4cd45et68cgf/Rx83JoRDMkYNlMC9MKzcB/2b14d5a59fc3937afd3f03191e19502d/Netflix-Symbol.png",
       "type": "Streaming Service",
       "description": "Watch a variety of movies and TV shows on demand.",
       "amount": 75,
@@ -1952,6 +1953,7 @@
     {
       "id": 312,
       "name": "Disney Plus Hotstar",
+      "logo": "https://i.gadgets360cdn.com/large/disney_plus_hotstar_logo_1583901149861.jpg",
       "type": "Streaming Service",
       "description": "Enjoy popular movies, TV shows, and exclusive Disney content.",
       "amount": 15,
@@ -1965,7 +1967,8 @@
     },
     {
       "id": 313,
-      "name": "Zee Plus",
+      "name": "Zee 5",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Zee5-official-logo.jpeg",
       "type": "Streaming Service",
       "description": "Watch a wide range of TV shows, movies, and original content.",
       "amount": 20,
@@ -1980,6 +1983,7 @@
     {
       "id": 314,
       "name": "Jio Fiber",
+      "logo": "https://static.toiimg.com/photo/msid-70996658/70996658.jpg",
       "type": "Fiber Internet Service",
       "description": "Recharge your wifi plan with data, talk time, and more.",
       "amount": 30,
@@ -1994,6 +1998,7 @@
     {
       "id": 315,
       "name": "Amazon Prime",
+      "logo": "https://images.news18.com/ibnlive/uploads/2021/10/amazon-prime.jpg",
       "type": "Membership",
       "description": "Get access to fast delivery, exclusive deals, and streaming content.",
       "amount": 10,
@@ -2008,6 +2013,7 @@
     {
       "id": 316,
       "name": "Crunchyroll",
+      "logo": "https://1000logos.net/wp-content/uploads/2021/05/Crunchyroll-logo.png",
       "type": "Streaming Service",
       "description": "Stream a wide variety of anime shows and movies.",
       "amount": 15,
@@ -2021,7 +2027,8 @@
     },
     {
       "id": 317,
-      "name": "Music Unlimited",
+      "name": "Spotify",
+      "logo": "https://static.vecteezy.com/system/resources/previews/022/101/104/non_2x/spotify-logo-transparent-free-png.png",
       "type": "Music Streaming",
       "description": "Listen to a vast library of music tracks and albums.",
       "amount": 8,
@@ -2035,35 +2042,38 @@
     },
     {
       "id": 318,
-      "name": "Yoga and Fitness",
-      "type": "Subscription",
-      "description": "Access guided yoga and fitness classes for a healthy lifestyle.",
+      "name": "Cult.Fit",
+      "logo": "https://gumlet.assettype.com/afaqs/2021-05/1c812f92-ef4b-474d-810e-4eeed3ac046f/cult.jpg",
+      "type": "Gym Subscription",
+      "description": "Get access to all Cult.Fit gyms across India, along with every other feature.",
       "amount": 20,
       "billing_cycle": "Monthly",
       "platform": "Online Subscription",
       "features": [
-        "Variety of yoga, workout, and meditation classes",
+        "Access to all Gyms across India",
         "Experienced instructors",
         "Customizable fitness plans"
       ]
     },
     {
       "id": 319,
-      "name": "Nature Exploration Guide",
-      "type": "Subscription",
-      "description": "Explore the wonders of nature through guided virtual tours.",
-      "amount": 30,
+      "name": "Apple Music",
+      "logo": "https://i.pinimg.com/originals/6f/5f/e5/6f5fe5d261b0b2f59c14bfaa0517bb15.jpg",
+      "type": "Music Streaming",
+      "description": "Listen to a vast library of music tracks and albums.",
+      "amount": 80,
       "billing_cycle": "Monthly",
-      "platform": "Online Subscription",
+      "platform": "Music Streaming",
       "features": [
-        "Virtual tours of natural landscapes and wildlife",
-        "Expert guides",
-        "Interactive learning experiences"
+        "Ad-free listening",
+        "Offline downloads available",
+        "Curated playlists and personalized recommendations"
       ]
     },
     {
       "id": 320,
-      "name": "Gourmet Cooking Masterclass",
+      "name": "Cooking Masterclass",
+      "logo": "https://ik.imagekit.io/wez2loho68v/prod/master-class/master%20class%20thumbnails/capture1.png?ext=.png",
       "type": "Online Course",
       "description": "Learn the art of gourmet cooking from renowned chefs.",
       "amount": 50,
